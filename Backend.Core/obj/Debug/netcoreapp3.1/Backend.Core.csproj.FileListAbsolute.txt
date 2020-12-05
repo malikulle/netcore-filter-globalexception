@@ -1,0 +1,9 @@
+C:\Users\malik\source\repos\Backend\Backend.Core\bin\Debug\netcoreapp3.1\Backend.Core.deps.json
+C:\Users\malik\source\repos\Backend\Backend.Core\bin\Debug\netcoreapp3.1\Backend.Core.dll
+C:\Users\malik\source\repos\Backend\Backend.Core\bin\Debug\netcoreapp3.1\Backend.Core.pdb
+C:\Users\malik\source\repos\Backend\Backend.Core\obj\Debug\netcoreapp3.1\Backend.Core.csprojAssemblyReference.cache
+C:\Users\malik\source\repos\Backend\Backend.Core\obj\Debug\netcoreapp3.1\Backend.Core.AssemblyInfoInputs.cache
+C:\Users\malik\source\repos\Backend\Backend.Core\obj\Debug\netcoreapp3.1\Backend.Core.AssemblyInfo.cs
+C:\Users\malik\source\repos\Backend\Backend.Core\obj\Debug\netcoreapp3.1\Backend.Core.csproj.CoreCompileInputs.cache
+C:\Users\malik\source\repos\Backend\Backend.Core\obj\Debug\netcoreapp3.1\Backend.Core.dll
+C:\Users\malik\source\repos\Backend\Backend.Core\obj\Debug\netcoreapp3.1\Backend.Core.pdb

@@ -1,0 +1,12 @@
+C:\Users\malik\source\repos\Backend\Backend.Service\bin\Debug\netcoreapp3.1\Backend.Service.deps.json
+C:\Users\malik\source\repos\Backend\Backend.Service\bin\Debug\netcoreapp3.1\Backend.Service.dll
+C:\Users\malik\source\repos\Backend\Backend.Service\bin\Debug\netcoreapp3.1\Backend.Service.pdb
+C:\Users\malik\source\repos\Backend\Backend.Service\obj\Debug\netcoreapp3.1\Backend.Service.csprojAssemblyReference.cache
+C:\Users\malik\source\repos\Backend\Backend.Service\obj\Debug\netcoreapp3.1\Backend.Service.AssemblyInfoInputs.cache
+C:\Users\malik\source\repos\Backend\Backend.Service\obj\Debug\netcoreapp3.1\Backend.Service.AssemblyInfo.cs
+C:\Users\malik\source\repos\Backend\Backend.Service\obj\Debug\netcoreapp3.1\Backend.Service.csproj.CoreCompileInputs.cache
+C:\Users\malik\source\repos\Backend\Backend.Service\obj\Debug\netcoreapp3.1\Backend.Service.dll
+C:\Users\malik\source\repos\Backend\Backend.Service\obj\Debug\netcoreapp3.1\Backend.Service.pdb
+C:\Users\malik\source\repos\Backend\Backend.Service\bin\Debug\netcoreapp3.1\Backend.Core.dll
+C:\Users\malik\source\repos\Backend\Backend.Service\bin\Debug\netcoreapp3.1\Backend.Core.pdb
+C:\Users\malik\source\repos\Backend\Backend.Service\obj\Debug\netcoreapp3.1\Backend.Service.csproj.CopyComplete
