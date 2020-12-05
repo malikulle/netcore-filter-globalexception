@@ -12,7 +12,7 @@
  * `Backend/API/Filters` . This folder includes filter such as `NotFoundFilter`, `ValidationFilters`.  Usage of this ;
     - `[NotFoundFilter]` , `[ValidationFilters]` on controllers.
  * `Backend/API/Extensions` , This folder includes custom exception Handler.
- `
+ 
    public static void UseCustomException(this IApplicationBuilder app)
         {
             app.UseExceptionHandler(config =>
@@ -37,4 +37,4 @@
 
             return app;
         }
- `
+ 
