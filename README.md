@@ -13,7 +13,8 @@
     - `[NotFoundFilter]` , `[ValidationFilters]` on controllers.
  * `Backend/API/Extensions` , This folder includes custom exception Handler.
  
-   public static void UseCustomException(this IApplicationBuilder app)
+ 
+        public static void UseCustomException(this IApplicationBuilder app)
         {
             app.UseExceptionHandler(config =>
             {
@@ -37,4 +38,3 @@
 
             return app;
         }
- 
